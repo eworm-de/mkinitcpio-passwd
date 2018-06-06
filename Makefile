@@ -1,6 +1,6 @@
 # Makefile for mkinitcpio-passwd
 
-VERSION=0.1.0
+VERSION=0.2.0
 
 all:
 	@echo "Just run make install..."
